@@ -47,20 +47,3 @@ Contributions are welcome! Great for Python beginners to start with open source.
 ## License
 License George Sigioltzakhs 
 
-Layout: 
-
-project/
-?
-??? data/
-    ??? prices/
-        ??? last_7days_prices.csv
-    ??? processed/
-        ??? candle_14days.csv
-        ??? chart_14days.csv
-??? scripts/
-?   ??? fetch_price_data.py
-?   ??? processes_data.py
-?
-??? app.py
-???README.md
-???requirments.txt
